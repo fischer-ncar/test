@@ -1,5 +1,5 @@
-|                        Test                                                                        | Funct | base  | Memlk | Memcm | Thrp | Namelst| Comment                       |      Note             |
-|----------------------------------------------------------------------------------------------------|-------|-------|-------|-------|------|--------|-------------------------------|-----------------------|
+|                        Test                   | Funct | base  | Memlk | Memcm | Thrp | Namelst| Comment                       |      Note             |
+|-----------------------------------------------|-------|-------|-------|-------|------|--------|-------------------------------|-----------------------|
 |ERS_Ld5.ne30pg3_t061.B1850MOM.derecho_gnu.allactive-defaultio--drv-asyncio1node.GC.c3_0_a05a_g |__SFAIL__|	---- |---- |---- |----|	---- |	CREATE_NEWCASE fail! |Double-click to edit.|
 |ERP_Ln9.f19_f19_mg17.F2000climo.derecho_gnu.cam-outfrq9s.GC.c3_0_a05a_g |	PASS| 	PASS |	PASS |	__FAIL__ |	PASS |	__FAIL__ |		Could not interpret CPRNC output [Errno 2] No such file or directory: '/glade/campaign/cesm/cesmdata/cesm_baselines/cesm3_0_alpha04b/ERP_Ln9.f19_f19_mg17.F2000climo.derecho_gnu.cam-outfrq9s/cpl-mem.log' insufficient data for memleak test |	Double-click to edit|
 |ERP_P64x2_D_Ld5.f10_f10_mg37.I2000Clm50Sp.derecho_gnu.clm-default.GC.c3_0_a05a_g 	|PASS |	PASS |	PASS 	|PASS |	PASS 	|PASS 	|	Could not interpret CPRNC output |	Double-click to edit|
